@@ -1,0 +1,18 @@
+<svg height="238" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="238" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">2 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ node-ssh@4.2.2 </tspan>
+<tspan x="10" y="90">  ├── sb-promisify@2.0.1 </tspan>
+<tspan x="10" y="106">  ├─┬ sb-scandir@1.0.0 </tspan>
+<tspan x="10" y="122">  │ └── sb-promisify@1.3.0 </tspan>
+<tspan x="10" y="138">  ├── shell-escape@0.2.0 </tspan>
+<tspan x="10" y="154">  └─┬ ssh2@0.5.4 </tspan>
+<tspan x="10" y="170">    └─┬ ssh2-streams@0.1.16 </tspan>
+<tspan x="10" y="186">      ├── asn1@0.2.3 </tspan>
+<tspan x="10" y="202">      ├── semver@5.3.0 </tspan>
+<tspan x="10" y="218">      └── streamsearch@0.1.2</tspan>
+</text>
+</svg>
